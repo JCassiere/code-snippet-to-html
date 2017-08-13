@@ -1,5 +1,5 @@
 class RubyKeywords
-	attr_reader :keywords
+  attr_reader :keywords
 
   def initialize
     @keywords = [
